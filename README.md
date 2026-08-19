@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lucif 👋</h1>
+<h1 align="center">Hi, I'm Lucifer 👋</h1>
 <h3 align="center">Cybersecurity Leader | Blue Team Strategist | Building Resilient Defenses</h3>
 
 <p align="center">
