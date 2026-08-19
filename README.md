@@ -58,7 +58,6 @@
 
 ### 🏆 Certifications
 
-> _Add your certifications here, e.g._
 - [ ] CISSP
 - [ ] CISM
 - [ ] OSCP
